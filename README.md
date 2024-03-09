@@ -28,7 +28,7 @@ To install our project, you need to have the gcc and ncurses compiler installed 
 
 # Everything ready?
 
-- Execute ```start.sh``` and begin playing!
+- Execute ```chmod +x ./start.sh && ./start.sh``` and begin playing!
 or
 - Compile the project with the command: ```gcc snake.c -o ./snakegame -lncurses``` and start playing! (run: ```./snakegame```)
 
